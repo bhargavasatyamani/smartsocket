@@ -1,0 +1,33 @@
+body,html{
+    margin: 0;
+    width:100%;
+    height:100%;
+}
+.bodycontainer{
+    height: 100%;
+}
+.bodycontainer .row{
+    height: 100%;
+}
+.indexPageLeftDiv{
+    height: 100%;
+}
+.indexPageRightDiv{
+    height: 100%;
+    padding: 5%;
+    /*background-color: crimson;*/
+}
+.indexPageLeftDiv img{
+    width:50%;
+    height:20%;
+    margin-left:25%;
+    margin-top:35%;
+}
+.indexPageRightDiv label{
+    
+    font:bold
+}
+
+.formcontainer{
+    width:80%;
+}
